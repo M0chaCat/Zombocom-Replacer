@@ -2,7 +2,7 @@
 
 This extension replaces the Al slop version of zombo.com with the original HTML5 version!
 
-##Extension download links:
+## Extension download links:
 **Chrome, Edge, Opera, Brave & Chromium browsers:** ~~[Chrome Web Store, Coming soon](https://chrome.google.com/webstore/detail/jilcfoniobpchapkeflgmgdhlligicpj)~~ [install manually from Github](#Manual-installation)
 **Firefox:** ~~[Addons For Firefox, Coming Soon](https://addons.mozilla.org/en-US/firefox/addon/)~~ [install manually from Github](#Manual-installation)
 
