@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Zombocom Replacer",
+  "version": "1.0.0",
+  "description": "Replace zombo.com with the original version.",
+  "host_permissions": [
+    "*://zombo.com/*",
+    "*://www.zombo.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://zombo.com/*",
+        "*://www.zombo.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "custom.html"
+      ],
+      "matches": [
+        "*://zombo.com/*",
+        "*://www.zombo.com/*"
+      ]
+    }
+  ],
+  "action": {
+    "default_title": "Zombocom Replacer"
+  }
+}
