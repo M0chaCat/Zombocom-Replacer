@@ -1,0 +1,245 @@
+                  KITTY PUBLIC LICENSE
+                    also known as the
+                  KITTY PUPLICK LICENSE
+
+                  VERSION 1, 2026-08-14
+
+
+Anyone is permitted to use, copy and distribute this license.
+
+There is no warranty for this software.
+
+
+    THE WRITERS OF THE KPL TAKE NO WARRANTIES REGARDING THE USE
+OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER
+AND DISCLAIM LIABILITY FOR DAMAGES RESULTING FROM THE USE OF
+THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
+
+In other words: I'm NOT A LAWYER!!!!!
+
+                        Preamble.
+
+
+    The Kitty Public License, also known as the Kitty Puplick
+License is a free, copyleft license designed for software.
+
+    The licenses for most software are designed for a world
+before Large Language Model (LLM) Artificial 'Intelligence',
+herein referred to as Slop Generators. By contrast the main
+goal of the Kitty Public License is to make sure your code
+stays away from Slop Generators.
+
+
+
+                  TERMS AND CONDITIONS
+
+
+{0} Definitions.
+
+    "This License" refers to version 1 of the Kitty Public
+License, also known as the Kitty Puplick License for those
+who identify closer to that of a puppy dog. The name of the
+License may and will be shortened to "KPL" for convenience.
+
+    A "user" refers to any entity attempting to access the
+Program. This may refer to individuals, collectives,
+Slop Generators, or formal organizations.
+
+    An "author" refers to the entity who created the Program.
+For any modified copy of the Program, this refers to the
+creator of the copy. For any unmodified copy the author
+refers to the original author of the copy, not the copier.
+
+    "The Program" refers to any work correctly licensed under
+this License. Each licensee is addressed as "you" as well
+as an "author".
+
+    To "repackage" the Program means to not functionally modify
+the work with the intention to redistribute it on a separate
+distribution network. An example of repackaging would be to
+fork from a work to port it to the Nix Package Manager.
+
+    To "modify" a work means to adapt a core part of the
+Program. This includes editing source code, but does not include
+repackaging.
+
+    The "source code" for a work refers to the entire required
+code to compile and then run the Program.
+
+    The "compiled" form of a work refers to the state where the
+Program is only object code that is built from the source
+code, and is often difficult to modify without the matching
+source code.
+
+    A “notice of acceptance” is a notice added by the authors
+informing users that by accessing the program they accept this
+License, this notice does not require interaction.
+
+	"User interaction" refers to requiring the user to manually
+accept this License. An example of this is popup added by the
+authors containing a copy of this License, and a button the
+user must click confirming they accept all terms of the License.
+
+
+{1} Permission.
+
+    All rights granted under the KPL are irrevocable assuming
+the stated conditions are met. This License recognizes your
+rights of fair use or equivalent in other countries.
+
+
+{2} Anti-Circumvention Law.
+
+    By using the KPL you waive any legal power to prohibit
+circumvention of technological measures added to the Program.
+
+
+{3} Unmodified Copies.
+
+    You may redistribute unmodified copies of the Program and
+its source code as you receive it, in any medium you desire.
+You must keep intact all legal notices regarding license and
+warranty, and include a copy of this License with the Program.
+
+    You may not charge any additional price for your
+redistribution if you have not modified the program in any
+meaningful way excluding your repackaging.
+
+
+{4} Modified Copies.
+
+    You may modify the Program in any way you desire, provided
+you meet all these conditions:
+    
+    a) The modified variant carries clear notices it is not the
+    original Program, with a clear hyperlink to the source code
+    listing of the original Program.
+
+    b) The modified variant carries a clear notice it is
+    released under the KPL.
+
+    c) You license the entire work as a whole, under this
+    License, including all modifications added.
+
+    d) If the Program has an interactive user interface, it must
+    display clear legal notices stating warranty and license.
+
+
+{5} Modified Compiled Forms.
+
+    You may distribute a compiled form of the Program, but
+must also provide the matching source code in one
+of the allowed forms:
+
+    a) Including source code online in the same form as the
+    compiled form.
+
+    b) Link to source code listing online, such as source code
+    hosted on Websites like Codeberg.
+
+    c) Including source code with the compiled Program on
+    physical media.
+
+    d) Provide a written offer to acquire the source code for a
+    reasonable price.
+
+    Parts of the compiled Program such as libraries used by the
+Program do not need to have their source code provided.
+
+    If the Program is included in a device sold to consumers you
+must provide all information needed to install and run modified
+versions of the Program. The device manufacturer must allow the
+consumer to run replacements of the Program. The manufacturer
+may restrict modified or replaced Programs from harming online
+services if reasonably necessary.
+
+    The source code and modified installation information must
+be provided in a publicly accessible document without any
+passwords, keys, or tools needed.
+
+    If you modify the Program and allow users to use the Program
+through the internet, you must provide those users with access
+to the source code of your modified Program.
+
+
+{6} Slop Generators.
+
+    No form of Slop Generator may use the user interface,
+compiled code, or source code of the Program in any way. This
+includes using the Program as data to train future Slop Generators.
+
+    It is under the writers of the KPL judgement that all code
+output by a Slop Generator is copywritten material that should
+not be used. There is ample evidence across the internet that
+the training material of Slop Generators contains copywritten
+material, and Slop Generators have been shown to directly repeat
+code in its training corpus, including copywritten code.
+
+    Due to this, the source code of the Program does not include
+any code written by a Slop Generator.
+
+
+{7} Termination.
+
+    You may not modify or repackage a Program except as clearly
+under this License. Any attempt to change the license will
+automatically terminate your rights under this License.
+
+    If you cease all violation of this License, then your rights
+are reinstated.
+
+
+{8} Acceptance.
+
+    You and users are required to accept this License in order to
+receive, run, or view any form of the Program.
+
+    If the Program is made available through the internet, the
+Program must display a notice of acceptance. For downloadable
+forms of the Program it must require user interaction, a notice of
+acceptance does not qualify.
+
+    if the user does not accept the License they may not use or
+view the Program.
+
+
+{9} Equality.
+    You may not change any form of this license. You cannot add
+any additional restrictions, fees, or legal threats that
+interfere with the rights of this License.
+
+    You may not use outside agreements or other legal requirements
+as a reason to modify the rights of this License. If you must
+distribute the Program within the KPL and another legal agreement
+that violates the KPL, you may not distribute the Program.
+
+
+{10} Combination Works.
+
+    You may combine KPLv1 Programs with others of the same license,
+and distribute or repackage the combined work. The KPLv1 terms
+and rights will continue to apply to the work.
+
+
+{11} License Revisions.
+
+    The writers of the Kitty Public License may publish revised
+and new versions of the License at any time. Such new versions
+will be similar in spirit but differ to address new problems.
+
+    Each new version will be given differing version numbers.
+If the Program specifies that a certain numbered version of the
+KPL "or any later version" applies to it, you have the option of
+following the terms and conditions either of that numbered version
+or of any later version published by the writers. If the Program
+does not specify a version number of the KPL, you must assume
+the latest version.
+
+
+{12} Warranty.
+
+    The Software and related documentation are provided “AS IS” and
+without any warranty of any kind and Seller EXPRESSLY DISCLAIMS
+ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE.
