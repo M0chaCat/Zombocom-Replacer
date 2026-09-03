@@ -1,5 +1,5 @@
 (() => {
-  const url = chrome.runtime.getURL("custom.html");
+  const url = browser.runtime.getURL("custom.html");
 
   const replaceWithCustomHtml = async () => {
     const response = await fetch(url);

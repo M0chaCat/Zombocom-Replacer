@@ -3,10 +3,25 @@
   "name": "Zombocom Replacer",
   "version": "1.0.0",
   "description": "Replace zombo.com with the original version.",
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "zombocom-replacer@example.com"
+    }
+  },
+
   "host_permissions": [
     "*://zombo.com/*",
     "*://www.zombo.com/*"
   ],
+
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+
   "content_scripts": [
     {
       "matches": [
@@ -19,6 +34,7 @@
       "run_at": "document_start"
     }
   ],
+
   "web_accessible_resources": [
     {
       "resources": [
@@ -30,6 +46,7 @@
       ]
     }
   ],
+
   "action": {
     "default_title": "Zombocom Replacer"
   }
