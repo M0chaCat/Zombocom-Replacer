@@ -5,12 +5,12 @@ This extension replaces the Al slop version of zombo.com with the original HTML5
 ## Extension download links:
 **Chrome, Edge, Opera, Brave & Chromium browsers:** [Chrome Web Store](https://chrome.google.com/webstore/detail/jilcfoniobpchapkeflgmgdhlligicpj) [install manually from Github](#Manual-installation)
 
-**Firefox:** ~~[Addons For Firefox, Coming Soon](https://addons.mozilla.org/en-US/firefox/addon/)~~ [install manually from Github](#Manual-installation)
+**Firefox:** [Addons For Firefox](https://addons.mozilla.org/en-US/firefox/addon/zombocom-replacer/) [install manually from Github](#Manual-installation)
 
 ## Manual installation
 
 - Go to [Releases page](https://github.com/M0chaCat/Zombocom-Replacer/releases/)
-- Download `ZomboChrome.zip` if you're on Chromium based browsers and `ZomboFirefox.zip` if you're on Firefox
+- Download `ZomboChrome.zip` if you're on Chromium based browsers and `ZomboFirefox.xpi` if you're on Firefox
 
 #### Chromium
 
